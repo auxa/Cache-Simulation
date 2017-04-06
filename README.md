@@ -1,5 +1,5 @@
-#Cache Simulation
-##Two Caches are simulated with replacement policies:
+# Cache Simulation
+## Two Caches are simulated with replacement policies:
 1. Least Recently Used Replacement Policy
 2. Pseudo Least Recently Used Replacement Policy
 
